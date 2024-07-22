@@ -24,7 +24,7 @@
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://portfolio-daxesh.web.app/)**, **[Linkedin](https://www.linkedin.com/in/daxesh-vanani-reactjs/)**
+- **Daxesh Vanani** - **[Portfolio Website](https://portfolio-daxesh.web.app/)**, **[Linkedin](https://www.linkedin.com/in/daxesh-vanani-reactjs/)**
 
 <br/>
 
